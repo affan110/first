@@ -1,5 +1,9 @@
 class First{
    int a;
    int b;
+   
+   
+   
+   int c;
 
 }
